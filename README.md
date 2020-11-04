@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Vivek0004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek0004&hide=scss&layout=compact&theme=tokyonight)
+
+
 <!--
 **Vivek0004/Vivek0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
